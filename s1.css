@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#myGif {
+
+    height: 100%;
+    width: 100%;
+  
+    height: auto;
+  
+    display: block;
+  
+  }
+#yupiel{
+
+  width: 200px;
+
+  height: 200px;
+
+  border: 1px solid black;
+
+  object-fit: center;
+
+}
+body{
+    background-color: black;
+}
